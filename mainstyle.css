@@ -1,3 +1,8 @@
+
+.bdy{
+background-color: rgba(66, 149, 175, 0.19);
+}
+
 .head{
 	text-align: center;
 	background-color: blue;
@@ -23,4 +28,7 @@
 .img{
 	align-items: center;
 
+}
+#sidebar{
+	position: fixed;
 }
